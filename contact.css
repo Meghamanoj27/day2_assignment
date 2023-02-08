@@ -1,5 +1,5 @@
 body{
-    background-image: url("./image/bgg.jpg");
+    background-image: url("./image/K22.jpg");
     
     /* background-position: center; */
      background-repeat: no-repeat;
@@ -13,7 +13,7 @@ a{
     text-decoration: none;
 }
 #h1{
-    color: rgb(219, 11, 105);
+    color: white;
 }
 .imp{
     height:100vh;
